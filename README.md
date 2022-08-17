@@ -5,7 +5,9 @@
 
 # DEMO
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) -->
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/23275447/185143155-99f2f531-5423-4510-b673-334c84c5c25e.gif)
+
 
 
 # How To Run the Project
