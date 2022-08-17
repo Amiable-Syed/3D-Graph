@@ -2,6 +2,12 @@
 # 3D-Graph
 3D Graph with parent and child highlighting when hovered or clicked
 
+
+# DEMO
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 # How To Run the Project
 
 In the project directory, you can run:
